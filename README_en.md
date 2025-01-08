@@ -11,9 +11,22 @@ Here are two data safety statements:
 
 # How to Use
 
-Currently, the way to use this script is to click "Tools" -> "Developers" -> "Run JavaScript", copy and paste the code into it. Then, select your files, and click "Run". Future plans include UI packaging as a right-click plugin.
+## Without Quicker
 
-If you have Quicker, you can use my action: [Click here~](https://getquicker.net/Sharedaction?code=e1553bba-54eb-41f0-2253-08dc1310ce90&fromMyShare=true). If you are new to this, my invite code is 970091-5834, you can input my code, and if you want to pay for it, our will have 3 months plus power more than no input invite code.
+1. Select the bibliographic items you want to fill in
+2. Click "Tools"-"Developer"-"Run JavaScript"
+3. Copy and paste the `main.js` code
+4. Click the "Run" button in the upper left corner to run.
+
+Consider making a UI and packaging it as a Zotero right-click plugin in the future.
+
+## With Quicker
+
+If you have Quicker, you can directly use the action I shared: [Click here to go to the portal~](https://getquicker.net/Sharedaction?code=e1553bba-54eb-41f0-2253-08dc1310ce90&fromMyShare=true)
+
+You can directly view the introduction on the action page for the specific usage of Quicker.
+
+> Also, if you are a new user, my invitation code is 970091-5834. After entering the invitation code, you can add three months of membership for each payment.
 
 If success, the output is:
 ![success](imgs/success.png)
